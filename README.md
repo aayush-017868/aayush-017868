@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aayush-017868/Portfolio-Website](https://github.com/aayush-017868/Portfolio-Website)
 
-- 📝 Code on [Leetcode, Hackerrank](Leetcode, Hackerrank)
+- 📝 Code on (Leetcode, Hackerrank, CodeChef)
 
 - 💬 Ask me about **Salesforce**
 
