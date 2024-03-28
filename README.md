@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+<h3 align="center">A passionate Programmerr web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-017868&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-017868" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aayush-017868/Portfolio-Website](https://github.com/aayush-017868/Portfolio-Website)
 
-- 📝 Code on Leetcode, Hackerrank, CodeChef
+- 📝 Code on Leetcode, Hackerrank
 
 - 💬 Ask me about **Salesforce**
 
